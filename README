@@ -1,0 +1,4 @@
+--> run scraper: python ./scraper.py
+--> run tests: python ./tests.py
+
+--> output will be json string to standard out
